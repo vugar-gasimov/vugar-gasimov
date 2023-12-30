@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47n2nsxm62voqhmi497mw18tmu5xfc50r25jlsw5nu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+[![MasterHead]([https://media1.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47n2nsxm62voqhmi497mw18tmu5xfc50r25jlsw5nu&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif))
 
 <h1 align="center">Hi 👋, I'm Vugar Gasimov</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
