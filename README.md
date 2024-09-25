@@ -1,16 +1,16 @@
 [![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 
 <h1 align="center">Hi 👋, I'm Vugar Gasimov</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center">A passionate frontend developer and programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47w6sv3erd4q903s5u4isyu0ppzg3u0s04ucv3s30n&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vugar-gasimov&label=Profile%20views&color=0e75b6&style=flat" alt="vugar-gasimov" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vugar5gasimov" target="blank"><img src="https://img.shields.io/twitter/follow/vugar5gasimov?logo=twitter&style=for-the-badge" alt="vugar5gasimov" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, TypeScript and Tailwindcss**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **React, TypeScript, Node.js and Tailwindcss**
+- 💬 Ask me about **React, TypeScript, Node.js, Python and Tailwindcss**
 
 - 📫 How to reach me **vuqar5qasimov@gmail.com**
 
